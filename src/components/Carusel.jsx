@@ -7,9 +7,9 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 const slides = [
-  { src: "public/carusel-image.webp", alt: "Slide 1" },
-  { src: "public/carusel-image2.webp", alt: "Slide 2" },
-  { src: "public/carusel-image-3.webp", alt: "Slide 3" },
+  { src: "/carusel-image.webp", alt: "Slide 1" },
+  { src: "/carusel-image2.webp", alt: "Slide 2" },
+  { src: "/carusel-image-3.webp", alt: "Slide 3" },
 ];
 
 const Carousel = () => {

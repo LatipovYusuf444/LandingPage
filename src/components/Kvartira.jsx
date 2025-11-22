@@ -85,7 +85,7 @@ const Kvartira = () => {
           </div>
         </motion.div>
         <motion.button
-          className='font-semibold text-sm sm:text-base lg:text-lg leading-[18px] tracking-[0%] text-white w-[150px] sm:w-[170px] lg:w-[183px] h-[44px] sm:h-[50px] lg:h-[54px] border border-[#E5BF9B]'
+          className='font-semibold text-sm sm:text-base lg:text-lg leading-[18px] tracking-[0%] text-white w-[150px] sm:w-[170px] lg:w-[183px] h-11 sm:h-[50px] lg:h-[54px] border border-[#E5BF9B]'
           whileHover={{ scale: 1.05, backgroundColor: "rgba(229, 191, 155, 0.2)" }}
           transition={{ type: "spring", stiffness: 300 }}
         >
